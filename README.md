@@ -1,4 +1,4 @@
-# Audio passthru
+# Audio passthru Combination with ALC
 
 This example passes audio received at the "aux_in" port to the headphone and speaker outputs.
 
