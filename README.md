@@ -8,6 +8,8 @@ Typical use cases:
 - Checking for left and right channel consistency through the audio path.
 - Used in conjunction with an audio test set to measure THD+N, for production line testing or performance evaluation.
 
+- This example has ALC initialized on top
+
 ## Compatibility
 
 This example is will run on boards marked with green checkbox. Please remember to select the board in menuconfig as discussed is section *Usage* below.
