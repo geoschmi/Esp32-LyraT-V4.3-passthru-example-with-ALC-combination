@@ -8,7 +8,7 @@
 		"terminal.integrated.shell.windows": "cmd.exe",
 		"terminal.integrated.shellArgs.windows" : [
 			"/k", 
-			"C:/Users/schor/esp/esp-idf/export.bat"
+			"C:/Users/esp/esp-idf/export.bat"
 		],
 		"files.associations": {
 			"*.tcc": "cpp",
